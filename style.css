@@ -1,0 +1,22 @@
+.part_1{
+    display: flex;
+}
+.text{
+  width: 40%;
+  margin-top: 150px;
+  margin-left: 150px;
+  font-family: 'Exo', sans-serif; 
+  letter-spacing: 1px;
+}
+
+.photo{
+    padding-left: 135px;
+}
+
+p{
+    padding: 15px 0px;
+}
+.text_color
+{
+    color:  #ff6d6d;
+}
