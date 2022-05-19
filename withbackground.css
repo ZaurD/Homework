@@ -7,10 +7,11 @@ body{
 }
 
 .text{
-    
-    flex-direction: column;
     width: 30vw;
     margin: 150px;
-
-
+    font-family: 'Exo', sans-serif; 
+}
+.text_color
+{
+    color:  #ff6d6d;
 }
