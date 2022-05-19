@@ -1,0 +1,16 @@
+body{
+    background-image:url(bgintro.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+    background-size: 40vw;
+}
+
+.text{
+    
+    flex-direction: column;
+    width: 30vw;
+    margin: 150px;
+
+
+}
